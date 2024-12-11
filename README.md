@@ -1,13 +1,15 @@
 <h1>Bartłomiej Barański</h1>
-<p>My interests include data analysis, optimization algorithms, and designing applications that facilitate decision-making. I focus on combining algorithmic theory with practical applications in information analysis.</p>
+
 <p>
-    <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <a href="https://www.linkedin.com/in/bartlomiej-baranski-bartbaranski" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
     </a>
-    <a href="https://yourwebsite.com" target="_blank">
+    <a href="https://bartbaranski.com" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/2721/2721299.png" alt="Website" width="30" height="30">
     </a>
 </p>
+
+<p>My interests include data analysis, optimization algorithms, and designing applications that facilitate decision-making. I focus on combining algorithmic theory with practical applications in information analysis.</p>
 
 <h2>My Interests</h2>
 <ul>
@@ -40,13 +42,20 @@
     <li><strong>CSS</strong></li>
 </ul>
 
+<h3>Cloud services</h3>
+<ul>
+    <li>RedHat Server</li>
+    <li>Amazon Web Services</li>
+</ul>
+
 <h2>Certifications</h2>
 <p>I am constantly improving my skills and validating my expertise through certifications. Here are a few of my most significant certifications:</p>
 <ol>
-    <li><strong>[Certification Name 1]</strong>: Brief description of its relevance.</li>
-    <li><strong>[Certification Name 2]</strong>: Brief description of its relevance.</li>
-    <li><strong>[Certification Name 3]</strong>: Brief description of its relevance.</li>
-    <li><strong>[Certification Name 4]</strong>: Brief description of its relevance.</li>
+    <li><strong>IBM Data Analyst</strong></li>
+    <li><strong>IBM Data Engineering</strong></li>
+    <li><strong>IBM Data Analyst</strong></li>
+    <li><strong>IBM Data Science</strong></li>
+    <li><strong>Meta Data Analyst</strong></li>
 </ol>
 
 <h2>Let's Connect</h2>
