@@ -1,6 +1,6 @@
 <h1 align="center">Bartłomiej Barański</h1>
 
-<p align="center" padding=10px>
+<p align="center" padding=100px>
     <a href="https://www.linkedin.com/in/bartlomiej-baranski-bartbaranski" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
     </a>
