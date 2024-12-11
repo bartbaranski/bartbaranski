@@ -42,3 +42,12 @@
 
 <h2>Let's Connect</h2>
 <p>Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any of my projects. I'm always excited to connect with like-minded individuals!</p>
+
+<p>
+    <a href="https://linkedin.com/in/your-profile" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
+    </a>
+    <a href="https://yourwebsite.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2721/2721299.png" alt="Website" width="30" height="30">
+    </a>
+</p>
