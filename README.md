@@ -4,7 +4,9 @@
     <a href="https://www.linkedin.com/in/bartlomiej-baranski-bartbaranski" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
     </a>
-    <a href="https://yourwebsite.com" target="_blank">My Website</a>
+    <a href="https://bartbaranski.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Website" width="30" height="30">
+    </a>
 </p>
 
 <p>My interests include data analysis, optimization algorithms, and designing applications that facilitate decision-making. I focus on combining algorithmic theory with practical applications in information analysis.</p>
