@@ -1,4 +1,4 @@
-<h1 style='text-align:center;'>Bartłomiej Barański</h1>
+<h1 align="center">Bartłomiej Barański</h1>
 
 <p>
     <a href="https://www.linkedin.com/in/bartlomiej-baranski-bartbaranski" target="_blank">
